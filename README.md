@@ -58,8 +58,3 @@ After initial training, the deeper layers are fine-tuned to adapt the pre-traine
 * MRI Image Classification
 * Google Colab
 
-## Notebook
-
-The included Google Colab notebook contains the implementation and experimentation for the brain tumor classification models.
-
-> **Note:** This project is intended for educational and research purposes and is not a medical diagnostic system.
